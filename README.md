@@ -66,7 +66,7 @@ Fanfix is on **Max** ($15/month) or **Lifetime** ($99 once), alongside JustForFa
 - Runs entirely on your device. Media and your login session never reach our servers.
 - **Never asks for your Fanfix password.** Anything asking you to type your platform password into it is a credential grab, not a downloader.
 - Paces requests like ordinary browsing rather than hammering the site.
-- The shipped build is flagged by **0 of 65** engines on VirusTotal.
+- The shipped build is flagged by **0 of 63** engines on [VirusTotal](https://www.virustotal.com/gui/file/dd8e3884eebc4052beaf212a09dc09cb324d5b74ac10c71199c3703543b97266/detection).
 
 ## Links
 
